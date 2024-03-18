@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEMBELIAN_BUKU", "PEMBELIAN_BUKU\PEMBELIAN_BUKU.csproj", "{26D48031-FC0A-4D62-AC64-6C491B4796D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D48031-FC0A-4D62-AC64-6C491B4796D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D48031-FC0A-4D62-AC64-6C491B4796D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D48031-FC0A-4D62-AC64-6C491B4796D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D48031-FC0A-4D62-AC64-6C491B4796D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06C55C1-C254-45D8-9BEC-3BB057C7C2D9}
+	EndGlobalSection
+EndGlobal
